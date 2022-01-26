@@ -71,7 +71,9 @@ namespace HelloGame
 
             base.Update(gameTime);
         }
-
+        /// <summary>
+        /// Comment
+        /// </summary>
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
